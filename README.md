@@ -5,7 +5,9 @@ This repository contains the list of all the playable games I made. I lost sourc
 
 <br/>
 
-line-game (Java Swing game - I made this game in year 1 summer vacation - Development finished on 04 August 2015 - Source code can be found at https://github.com/nathan-nguyen/line-game)
+guess-bomb.apk (Very simple Android game - My first Android game - Development finished around December 2011 - No source code)
+
+line-game (Java Swing game - I made this game in year 1 summer vacation - Development finished around July 2012 - Source code can be found at https://github.com/nathan-nguyen/line-game)
 
 <br/>
 
