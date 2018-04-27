@@ -44,6 +44,8 @@ tank2k15 (My first Unity game - Made with my friend Tuan Minh Nguyen (designer) 
 
 flat-rubik (Java FX game - Development finished on 30 Aug 2015 - Source codes are available at https://github.com/nathan-nguyen/flat-rubik)
 
+<br/>
+
 ## 2016 games
 
 <br/>
@@ -58,7 +60,7 @@ tic-tac-tac-android (Android Tic Tac Tac game - Original rules are came from my 
 
 <br/>
 
-kingdom (This game was made using libgdx - Source code are available at https://github.com/nathan-nguyen/kingdom)
+kingdom (A multiplatform RPG game - This game was made using libgdx - Source code are available at https://github.com/nathan-nguyen/kingdom)
 
 <br/>
 
