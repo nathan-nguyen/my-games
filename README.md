@@ -52,7 +52,7 @@ flat-rubik (Java FX game - Development finished on 30 Aug 2015 - Source codes ar
 
 bus-catcher (Prototype for mobile game - Source code can be found at https://github.com/nathan-nguyen/bus-catcher)
 
-tic-tac-tac-android (Android Tic Tac Tac game - Original rules are came from my friend Thanh Tung Ngo - Development finished on 27 May 2016 - Source code are available at https://github.com/nathan-nguyen/tictactac/tree/master/tic-tac-tac-android)
+tic-tac-tac-android (Android Tic Tac Tac game - Original rules are from my friend Thanh Tung Ngo - Development finished on 27 May 2016 - Source code are available at https://github.com/nathan-nguyen/tictactac/tree/master/tic-tac-tac-android)
 
 <br/>
 
